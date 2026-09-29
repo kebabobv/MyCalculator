@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <color name="blu">#3F51B5</color>
+    <color name="blu_scuro">#303F9F</color>
+    <color name="bianco">#FFFFFF</color>
+    <color name="nero">#222222</color>
+    <color name="grigio">#EEEEEE</color>
+
+</resources>
